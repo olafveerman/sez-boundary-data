@@ -1,0 +1,15 @@
+{
+  "name": "sez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "osmtogeojson": "^3.0.0-beta.2",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
